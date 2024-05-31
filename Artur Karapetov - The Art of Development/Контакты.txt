@@ -2,7 +2,7 @@
 Payment amount: 10,000.00 руб.
 Password for access: 
 Access period, days: 3650
-Link to media: https://play.boomstream.com/0xIP4OzC
+Link to media: 
 "
 "Contacts of content owner:
 Contact person: Артур Карапетов
